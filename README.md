@@ -10,7 +10,7 @@
     + b1. Cài đặt IntelIj
     + b2. cài đặt môi trường maven, java
     + b3. Cài đặt mysql
--Chạy chương trình
+- Chạy chương trình
    - b1. start dịch vụ Student Transcrip ubility service notification
    - b2. start dịch vụ eureka-server và chạy trên cổng 8761 bạn sẽ thấy các dịch vụ đang chạy
    - ![image](https://user-images.githubusercontent.com/93995859/167992487-6418eea5-10af-4dd5-b701-c765c57a4da2.png)

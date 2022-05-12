@@ -19,5 +19,8 @@
       + ![image](https://user-images.githubusercontent.com/93995859/167992771-aeef7314-0422-471c-a7e0-a9892a1a2ca7.png)
       + dịch vụ ubiliti service sẽ gửi gmail thông báo cho email của sinh viên đấy:
       -  ![image](https://user-images.githubusercontent.com/93995859/167993043-e7c91cf1-2de1-4953-90fc-4405dad8a557.png)
+    - Nếu mã sinh viên sai sẽ thông báo sai và hủy dịch vụ
+    - ![image](https://user-images.githubusercontent.com/93995859/167994282-8085d683-af74-4190-abb7-c581632bad55.png)
+
 
 

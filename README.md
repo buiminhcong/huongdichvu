@@ -17,6 +17,7 @@
    - b3. start dịch vụ tast-serice và chạy trên cổng 9090 đã cấu hình trước
    - KQ:
       + ![image](https://user-images.githubusercontent.com/93995859/167992771-aeef7314-0422-471c-a7e0-a9892a1a2ca7.png)
-      + dịch vụ ubiliti service sẽ gửi gmail thông báo cho email của sinh viên đấy: ![image](https://user-images.githubusercontent.com/93995859/167993043-e7c91cf1-           2de1-4953-90fc-4405dad8a557.png)
+      + dịch vụ ubiliti service sẽ gửi gmail thông báo cho email của sinh viên đấy:
+      -  ![image](https://user-images.githubusercontent.com/93995859/167993043-e7c91cf1-2de1-4953-90fc-4405dad8a557.png)
 
 

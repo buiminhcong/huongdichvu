@@ -27,7 +27,7 @@ public class ServiceImplm implements HomeService{
         Result r = new Result();
         r.setDiem(t.getDiem());
         r.setStudent(s);
-        r.setKq(t.getDiem());
+        r.setKq(tinhdiem(r.getDiem()));
 
         callAPI.sendEmail(r);
 
@@ -35,6 +35,8 @@ public class ServiceImplm implements HomeService{
                 "Mã sinh viên: "+ s.getCode() + "\n" +
                 "Điểm: "+ t.getDiem() + "\n";
     }
+
+
     public static String tinhdiem(String diem){
 
         double d = Double.parseDouble(diem);
